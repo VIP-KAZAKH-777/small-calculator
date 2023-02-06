@@ -1,5 +1,5 @@
-/out
-/target
-mvnw
-mvnw.cmd
-pom.xml
+/Calculator/out
+/Calculator/target
+/Calculator/mvnw
+/Caluclator/mvnw.cmd
+/Calculator/pom.xml
